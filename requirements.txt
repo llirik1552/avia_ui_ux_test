@@ -1,7 +1,8 @@
-pytest
-selenium
+pytest~=8.3.5
+selenium~=4.31.0
 webdriver-manager
-requests
+requests~=2.32.3
 allure-pytest
-faker
+faker~=37.4.0
 flake8
+allure-python-commons~=2.14.2
